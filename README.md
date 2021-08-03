@@ -1,4 +1,4 @@
-### Hello Everyone, This is Prashant Kumar 😊👋
+### Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is Prashant Kumar 😊
 
 - 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
@@ -8,7 +8,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <a href="https://discord.gg/khrPzZ6k">
