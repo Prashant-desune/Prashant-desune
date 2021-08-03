@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
-- 📫 How to reach me: linkedin @prashant kumar, 
+- 📫 How to reach me: linkedin: @prashant_kumar, 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: 
 
