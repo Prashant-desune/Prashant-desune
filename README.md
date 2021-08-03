@@ -9,6 +9,8 @@
 - ⚡ Fun fact: 
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 <a href="https://discord.gg/khrPzZ6k">
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -31,7 +33,7 @@ hi, i'm [Prashant Kumar](http://prashant.epizy.com/?i=1), a passionate self-taug
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="500" height="320" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 
 - 💬 ask me about anything, i am happy to help;
