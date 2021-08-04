@@ -99,7 +99,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=python,html,css,hlsl&theme=radical">
 </p>
 
-  
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 
 
