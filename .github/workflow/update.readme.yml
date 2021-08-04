@@ -11,6 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Prashant-desune/github-activity-readme@master
+      - uses: Prashant-desune/github-activity-readme@v0.3.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
