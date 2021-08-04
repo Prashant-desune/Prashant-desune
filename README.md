@@ -33,7 +33,7 @@ hi, i'm [Prashant Kumar](http://prashant.epizy.com/?i=1) a Web Developer and a D
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="350" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="332" />
   
 
 
