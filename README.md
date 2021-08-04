@@ -97,9 +97,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#46](https://github.com/hoppscotch/hopp-doc-gen/pull/46) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+
 
 <!--END_SECTION:activity-->
 
