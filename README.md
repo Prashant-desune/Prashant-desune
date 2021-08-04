@@ -27,7 +27,7 @@
 <img src="https://badges.pufler.dev/repos/Prashant-desune"/>
  <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
 
-<br />
+<br>
 
 hi, i'm [Prashant Kumar](http://prashant.epizy.com/?i=1) a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team.
 
@@ -59,8 +59,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 💬 ask me about anything, i am happy to help;
 <br>
+<br>
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-</br>
+
 <p align="center">
 <a href="mailto: prashantkumar6061@gmil.com">
  <img src="https://img.shields.io/badge/-prashant6061-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantkumar6061@gmail.com"/>
