@@ -117,7 +117,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </td>
 <td>
-Fun_Fact<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </td>
 </tr>
 </table>
