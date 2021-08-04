@@ -96,8 +96,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=gotham" alt="Prashant-desune" /> -->
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=radical&line_height=27">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"> -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune7&hide=python,html,css,hlsl&theme=radical">
 </p>
+
   
 
 
