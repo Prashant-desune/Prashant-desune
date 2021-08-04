@@ -111,13 +111,13 @@ END_SECTION:activity -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=python,html,css&theme=radical">
 </td>
 </tr>
-<tr>
+<!-- <tr>
 <td>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</td>
-</tr>
-</table>
 
+</td>
+</tr> -->
+</table>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Prashant-desune&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Prashant-desune)
 
 
