@@ -58,19 +58,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p>
 - 💬 ask me about anything, i am happy to help;
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
 <p align="center">
-  
 <a href="mailto: prashantkumar6061@gmil.com">
  <img src="https://img.shields.io/badge/-prashant-kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:prashantkumar6061@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
- <img src="https://img.shields.io/badge/-prashant-2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-2002/"/>
+ <img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-2002/"/>
 </a>
   
   
  <a href="https://twitter.com/i_prashant_kr">
  <img src="https://img.shields.io/badge/i-prashant-kr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/i_prashant_kr"/>
-  
 </a>
 </p>
 
