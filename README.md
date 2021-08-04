@@ -66,6 +66,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://www.linkedin.com/in/prashant-2002/">
  <img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-2002/"/>
 </a>
+   <a href="https://twitter.com/ritikhere307">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
   
   
  <a href="https://twitter.com/i_prashant_kr">
