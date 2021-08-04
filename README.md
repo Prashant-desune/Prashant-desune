@@ -71,7 +71,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 </a>
  
+  </a>
+<a href="https://www.instagram.com/prashantaspacific/">
+ <img src="https://img.shields.io/badge/-prashantaspacific-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/prashantaspacific/"/>
   
+</a>
   
  <a href="https://twitter.com/i_prashant_kr">
  <img src="https://img.shields.io/badge/-prashantkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/i_prashant_kr"/>
