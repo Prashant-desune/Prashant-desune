@@ -70,7 +70,7 @@
 💬 ask me about anything, i am happy to help;
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Handshake.gif" height="25px" style="max-width:100%;">
   </a> </h2>
 
 <p align="center">
