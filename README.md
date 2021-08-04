@@ -83,7 +83,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </h2>
 
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Prashant-desune/Prashant-desune/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
