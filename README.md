@@ -52,12 +52,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+ ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 - 💬 ask me about anything, i am happy to help;
 📈 My GitHub Status
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=gotham" alt="Prashant-desune" />
   
- ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 
 
 
