@@ -1,4 +1,3 @@
-### Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is Prashant Kumar <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 <p align="center">
  
@@ -13,7 +12,7 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I listen music and go to the gym very often -->
 
-
+### Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is Prashant Kumar <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 <a href="https://discord.gg/khrPzZ6k">
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
