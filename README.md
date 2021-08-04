@@ -96,6 +96,8 @@
 </a>
 </p>
 
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
