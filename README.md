@@ -186,7 +186,7 @@ END_SECTION:activity -->
   
   
   
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="332" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
 
 <div align="center">
 
