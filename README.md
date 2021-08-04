@@ -82,7 +82,7 @@
 <!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
 
-<p><img align="left" width="100" height="120" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
+<p><img align="left" width="50" height="80" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
 
 <!-- ### :zap: Recent Activity
 START_SECTION:activity
