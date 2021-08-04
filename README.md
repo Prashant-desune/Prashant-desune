@@ -79,10 +79,10 @@
 </a>
 </p>
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
+<!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
 
-<!-- <p><img align="left" width="150" height="250" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p> -->
+<p><img align="left" width="150" height="250" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
 
 <!-- ### :zap: Recent Activity
 START_SECTION:activity
