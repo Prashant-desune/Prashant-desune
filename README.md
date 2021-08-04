@@ -186,7 +186,7 @@
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/Prashant-desune/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/Prashant-desune/f8beccc0-8e54-48ca-ba1c-b31ef2e6d850.svg" >
 </a>
 
 
