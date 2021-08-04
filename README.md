@@ -49,26 +49,6 @@
   
 
 
-
-<!-- <h2 align="center">Technology & Tools Stack <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/laptop.gif" width="50"></h2>
-
-<p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p> -->
-
 💬 ask me about anything, i am happy to help;
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
@@ -99,11 +79,11 @@
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
+<!-- ### :zap: Recent Activity
+START_SECTION:activity
 
 
-<!--END_SECTION:activity-->
+END_SECTION:activity -->
 
 <h2 align="center">
   My Hungry Contributor <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
@@ -153,6 +133,8 @@
     <img height="150" width="175" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/right.png">
   </a>
 </p>
+
+
 
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/github.gif"></a>
