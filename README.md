@@ -102,7 +102,7 @@
  📈 My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=gotham" alt="Prashant-desune" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=gotham" alt="Prashant-desune" /> -->
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=python,html,css&theme=radical">
