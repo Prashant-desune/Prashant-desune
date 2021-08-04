@@ -24,6 +24,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
+<img src="https://badges.pufler.dev/repos/Prashant-desune"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
 
 <br />
 
