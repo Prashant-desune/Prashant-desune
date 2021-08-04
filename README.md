@@ -101,7 +101,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-|![Jokes Card](https://readme-jokes.vercel.app/api) |
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p> 
 
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
