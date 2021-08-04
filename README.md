@@ -175,9 +175,6 @@ END_SECTION:activity -->
 
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
 
-<br>
-
-</br>
 
 
 
@@ -187,7 +184,10 @@ END_SECTION:activity -->
   
   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
- <br>
+  
+  
+  
+<br>
 
 </br>
 <div align="center">
