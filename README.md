@@ -186,7 +186,7 @@ END_SECTION:activity -->
   
   
   
-  ![citu](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif)
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="332" />
 
 <div align="center">
 
