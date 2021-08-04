@@ -33,7 +33,9 @@
 <br>
 
 
-### Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is [Prashant Kumar](http://prashant.epizy.com/?i=1) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />  a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team.
+
+ 
+ ### Hello <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is [Prashant Kumar](http://prashant.epizy.com/?i=1) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />  a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team.
 
 ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
