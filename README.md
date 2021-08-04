@@ -130,7 +130,7 @@
 <tr>
 <td>
  <a href="https://github.com/Prashant-desune/Prashant-desune.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Prashant-desune&repo=Prashant-desune.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.Prashant-desune.vercel.app/api/pin/?username=Prashant-desune&repo=Prashant-desune.github.io&theme=material-palenight" />
 </a>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> -->
 </td>
