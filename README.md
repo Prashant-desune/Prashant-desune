@@ -51,9 +51,8 @@
   
 
 
-💬 ask me about anything, i am happy to help;
+💬 ask me about anything, i am happy to help :-)
 
-<p><img align="left" width="150" height="250" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
     <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Handshake.gif" height="25px" style="max-width:100%;">
@@ -82,6 +81,8 @@
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
+
+<p><img align="left" width="150" height="250" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
 
 <!-- ### :zap: Recent Activity
 START_SECTION:activity
