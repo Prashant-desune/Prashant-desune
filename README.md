@@ -128,6 +128,14 @@
 </tr>
 </table>
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/Prashant-desune/Prashant-desune/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/Prashant-desune/Prashant-desune/blob/master/PNG/right.png">
+  </a>
+</p>
+
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 
