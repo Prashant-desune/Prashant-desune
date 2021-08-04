@@ -61,10 +61,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center">
 <a href="mailto: prashantkumar6061@gmil.com">
- <img src="https://img.shields.io/badge/-prashant6061-blue?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:prashantkumar6061@gmail.com"/>
+ <img src="https://img.shields.io/badge/-prashant6061-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantkumar6061@gmail.com"/>
+
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
  <img src="https://img.shields.io/badge/-prashant2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-2002/"/>
+  
 </a>
  
   
