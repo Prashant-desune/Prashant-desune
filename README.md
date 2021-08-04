@@ -56,7 +56,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-- 💬 ask me about anything, i am happy to help;
+
+💬 ask me about anything, i am happy to help;
+
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
@@ -78,7 +80,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 
-- 📈 My GitHub Status
+<h2 align="center">
+ 📈 My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=gotham" alt="Prashant-desune" />
   
