@@ -142,4 +142,12 @@
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 
+<div align="center">
 
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+
+
+![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
