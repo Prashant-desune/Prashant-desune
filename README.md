@@ -52,7 +52,7 @@
 
 
 💬 ask me about anything, i am happy to help :-)
-<p><img align="left" width="50" height="80" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p>
+<!-- <p><img align="left" width="50" height="80" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p> -->
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
     <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Handshake.gif" height="25px" style="max-width:100%;">
