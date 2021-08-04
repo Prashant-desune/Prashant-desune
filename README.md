@@ -88,7 +88,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p>
 
 
-<!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
+
 
 <h2 align="center">
  📈 My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -108,5 +108,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p> 
 
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
+ ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
 
 
