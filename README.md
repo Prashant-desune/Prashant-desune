@@ -84,7 +84,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center">
   
-  <h2 align="center"> <img src="https://github.com/Prashant-desune/Prashant-desune/snake.yml/raw/output/github-contribution-grid-snake.gif"></h2>
+  <h2 align="center"> <img src="https://github.com/Prashant-desune/Prashant-desune/github-contribution-grid-snake.gif"></h2>
 </p>
 
 
