@@ -182,7 +182,11 @@ END_SECTION:activity -->
 
 
 
- ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif)
+<!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
+  
+  
+  
+  ![citu](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif)
 
 <div align="center">
 
