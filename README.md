@@ -111,6 +111,8 @@
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </td>
+</tr>
+<tr>
 <td>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </td>
