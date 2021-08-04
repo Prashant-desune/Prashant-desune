@@ -58,7 +58,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p>
 
 💬 ask me about anything, i am happy to help;
-
+<br>
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
