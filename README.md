@@ -187,7 +187,9 @@ END_SECTION:activity -->
   
   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
+ <br>
 
+</br>
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
