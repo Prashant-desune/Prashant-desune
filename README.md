@@ -110,8 +110,8 @@ END_SECTION:activity -->
 <td>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=python,html,css&theme=radical">
 </td>
-<!-- </tr> -->
-<!-- <tr> -->
+</tr>
+<tr>
 <td>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </td>
