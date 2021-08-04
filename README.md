@@ -118,6 +118,12 @@ END_SECTION:activity -->
 </tr> -->
 </table>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<br>
+
+
+</br>
+
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Prashant-desune&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Prashant-desune)
 
 
