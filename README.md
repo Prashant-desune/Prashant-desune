@@ -44,9 +44,9 @@
  
  
 </p>
- 
+<!--  
 ### 🎶Spotify Playing🎧 
-[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) 
+[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)  -->
 
 
 
@@ -85,6 +85,9 @@
  <img src="https://img.shields.io/badge/-prashantkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/i_prashant_kr"/>
 </a>
 </p>
+
+### 🎶Spotify Playing🎧 
+[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) 
 
 <!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
