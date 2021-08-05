@@ -46,7 +46,7 @@
  ### Spotify Playing🎶🎧
   
 <!-- novatorem-delta-two.vercel.app -->
- [<img src="https://now-playing-delta-two.vercel.app/api/spotify-playing"                alt="Prashant Spotify playing" width="350"/>]
+ [<img src="https://now-playing-two.vercel.app/api/spotify-playing"                alt="Prashant Spotify playing" width="350"/>]
 (https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)
  
  
