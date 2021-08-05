@@ -44,7 +44,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </td>
 <td>
-[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)
+<img src="https://my-spotify-on.vercel.app/api/spotify(https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)"/>
 </td>
 </tr>
 </table>
