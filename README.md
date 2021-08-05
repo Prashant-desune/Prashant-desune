@@ -46,7 +46,8 @@
 </p>
  
 ### Spotify Playing🎶🎧 
-<img src="https://my-spotify-on-p0f5y2axo-prashant-desune.vercel.app/api/spotify-playing" alt="Prashant Spotify playing" width="350"/>
+[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)
+<!-- <img src="https://my-spotify-on-p0f5y2axo-prashant-desune.vercel.app/api/spotify-playing" alt="Prashant Spotify playing" width="350"/> -->
 
  
 
@@ -54,7 +55,7 @@
 
 ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="332" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="332"/>
   
 
 
