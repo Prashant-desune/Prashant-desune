@@ -38,16 +38,26 @@
 
 <br>
 
-<p align="center">
- 
-<a><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a>
- 
- 
+<table>
+<tr>
+<td>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</td>
+<td>
+[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)
+</td>
+</tr>
+</table>
+
+
+
+
+<!-- <p align="center">
+<a><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a> 
 </p>
-<!--  
+ 
 ### 🎶Spotify Playing🎧 
 [![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)  -->
-
 
 
  ### Hello <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;"> Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is [Prashant Kumar](http://prashant.epizy.com/?i=1) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />  a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team.
@@ -85,9 +95,6 @@
  <img src="https://img.shields.io/badge/-prashantkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/i_prashant_kr"/>
 </a>
 </p>
-
-### 🎶Spotify Playing🎧 
-[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) 
 
 <!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
