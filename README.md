@@ -1,8 +1,7 @@
 
 <p align="center">
- 
-</p align="center">
-<img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
+ <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
+</p>
 
 <!-- - 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
@@ -50,8 +49,15 @@
 </tr>
 </table>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center">
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
+</p>
+<p align="center">
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+</p>
 
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ -->
 
 <!-- <p align="center">
 <a><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a> 
