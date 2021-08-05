@@ -49,6 +49,8 @@
 </tr>
 </table>
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 <p align="center">
 <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 </p>
@@ -56,23 +58,11 @@
 
 </p>
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- 
-
-<!-- <p align="center">
-<a><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a> 
-</p>
- 
-### 🎶Spotify Playing🎧 
-[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)  -->
-
-
  ### Hello <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;"> Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is [Prashant Kumar](http://prashant.epizy.com/?i=1) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />  a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team.
 
 ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="332"/> -->
-
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="500" height="332"/>
 </a>
