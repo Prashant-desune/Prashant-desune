@@ -46,7 +46,7 @@
 </p>
  
 ### Spotify Playing🎶🎧 
-<img src="https://my_spotify_on.vercel.app/api/spotify-playing" alt="Prashant Spotify playing" width="350"/>
+<img src="https://my-spotify-on-p0f5y2axo-prashant-desune.vercel.app/api/spotify-playing" alt="Prashant Spotify playing" width="350"/>
 
  
 
