@@ -44,7 +44,7 @@
 </p>
 
  ### Spotify Playing🎶🎧
- [<img src="https://novatorem-delta-two.vercel.app/api/spotify-playing"alt="Prashant Spotify playing" width="350"/>]
+ [<img src="https://now-playing-novatorem.vercel.app/api/spotify-playing"                alt="Prashant Spotify playing" width="350"/>]
 (https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq)
  
  
