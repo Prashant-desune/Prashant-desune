@@ -48,7 +48,7 @@
 ### Spotify Playing🎶🎧 
 <!-- [![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) -->
  
-<img src="[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) "alt="Prashant Spotify playing" width="350"/>
+<img src="[![Spotify](https://my-spotify-on.vercel.app/api/spotify)](https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq) width="350"/>
 
 
 
