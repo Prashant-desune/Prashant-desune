@@ -50,7 +50,7 @@
 </table>
 
 <p align="center">
-<img src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge"/>
+<img src=&nbsp;&nbsp;"https://madewithlove.now.sh/in?heart=true&template=for-the-badge"/>
 </p>
 <!--  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
 
