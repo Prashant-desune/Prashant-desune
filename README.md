@@ -138,11 +138,10 @@ END_SECTION:activity -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=python,html,css&theme=radical">
 </td>
 </tr>
-<tr>
+<!-- <tr>
 <td>
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant-desune&repo=weather-data-analysis.github.com&theme=material-palenight" />
 </td>
-</tr>
+</tr> -->
 </table>
 
 
