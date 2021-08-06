@@ -145,6 +145,11 @@ END_SECTION:activity -->
 </tr> -->
 </table>
 
+</a>    
+<a href="https://github.com/Prashant-desune/Prashant-desune.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant-desune&repo=weather-data-analysis.github.io&theme=material-palenight" />
+</a>
+
 <br>
 
 
