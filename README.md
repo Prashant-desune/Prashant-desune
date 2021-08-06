@@ -140,14 +140,12 @@ END_SECTION:activity -->
 </tr>
 <tr>
 <td>
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant-desune&repo=weather-data-analysis.github.io&theme=material-palenight" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant-desune&repo=weather-data-analysis.github.com&theme=material-palenight" />
 </td>
 </tr>
 </table>
 
-<!-- </a>    
-<a href="https://github.com/Prashant-desune/Prashant-desune.github.io">
-</a> -->
+
 
 <br>
 
