@@ -209,14 +209,19 @@ END_SECTION:activity -->
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="50"></h2>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="40"></h2>
 </summary>
 
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
 </a>
 
+
+
+
+
 <br>
+
 
 
 </br>
@@ -230,9 +235,14 @@ END_SECTION:activity -->
 <br>
 
 
+
 </br>
 
+
+
 <br>
+
+
 
 </br>
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
@@ -241,10 +251,12 @@ END_SECTION:activity -->
   
 <br>
 
+
+
 </br>
 
  
-
+#
 
 <div align="center">
  <strong> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! </strong>
