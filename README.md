@@ -216,20 +216,11 @@ END_SECTION:activity -->
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
 </a>
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/github.gif"></a>
-
-
-
-
-
 <br>
 
 
 
 </br>
-
-
-
-
 
 
 <!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
@@ -256,10 +247,11 @@ END_SECTION:activity -->
 </br>
 
  
+#
 
 <div align="center">
  <strong> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! </strong>
- </div>
+</div>
 
 ![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
 <p align="center">
