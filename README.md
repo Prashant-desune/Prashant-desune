@@ -216,7 +216,7 @@ END_SECTION:activity -->
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
 </a>
-🌱 I’m currently learning Python for data science
+- 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
