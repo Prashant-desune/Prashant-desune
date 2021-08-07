@@ -209,7 +209,7 @@ END_SECTION:activity -->
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="50"></h2>
 </summary>
 
 <a target="_blank">
@@ -220,13 +220,7 @@ END_SECTION:activity -->
 
 
 </br>
-- 🌱 I’m currently learning Python for data science
-- 👯 I’m looking to collaborate  on C++, Web Development and Python
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Python, Web Development and related to tech
-- 📫 How to reach me: [linkedin: @prashant_kumar](https://www.linkedin.com/in/prashant-2002/), [Instagram: @prashant_kumar](https://www.instagram.com/prashantaspacific/),  [Facebook: @prashant_kumar](https://www.facebook.com/prashant.kr2002/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I listen music and go to the gym very often
+
 
 
 
