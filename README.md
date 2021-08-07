@@ -133,7 +133,7 @@ END_SECTION:activity -->
 <img src = "https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=radical&line_height=27">
 </td>
 <td>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=html,css&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&hide=jinja&theme=radical">
 </td>
 </tr>
 <!-- <tr>
