@@ -212,6 +212,9 @@ END_SECTION:activity -->
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
+<a target="_blank">
+  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashant-desune/10d64c36-3500-4617-88a9-263d36196170.svg" >
+</a>
 
 
 
