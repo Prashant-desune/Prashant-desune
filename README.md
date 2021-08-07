@@ -220,29 +220,28 @@ END_SECTION:activity -->
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/github.gif"></a>
 <br>
 
+<br>
 
+
+
+</br>
+
+
+
+#
+
+<br>
+
+
+</br>
+
+#
 
 </br>
 
 
 <!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
-<br>
-
-
-
-</br>
-
-
-
-#
-
-<br>
-
-
-</br>
-
-#
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
  
   
 <br>
