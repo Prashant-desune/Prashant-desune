@@ -217,18 +217,10 @@ END_SECTION:activity -->
 <table>
 <tr>
 <td>
- 
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
-</a>
- 
+ <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
 </td>
 <td>
- 
-<a target="_blank">
- <img align="left" width="450px" height="330px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif">
-</a>
- 
+<img align="left" width="450px" height="330px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif">
 </td>
 </tr>
 </table>
@@ -237,6 +229,7 @@ END_SECTION:activity -->
 
 
 <br>
+
 
 
 </br>
