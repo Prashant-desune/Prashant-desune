@@ -208,7 +208,6 @@ END_SECTION:activity -->
 #
 
 
-
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="40"></h2>
@@ -217,10 +216,14 @@ END_SECTION:activity -->
 <table>
 <tr>
 <td>
- <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
+ 
+ <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="450px" height="330px">
+ 
 </td>
 <td>
-<img align="left" width="450px" height="330px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif">
+
+<img src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg" height="330px" width="500px" >
+ 
 </td>
 </tr>
 </table>
