@@ -212,9 +212,7 @@ END_SECTION:activity -->
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashant-desune/10d64c36-3500-4617-88a9-263d36196170.svg" >
-</a>
+
 
 
 
@@ -229,9 +227,7 @@ END_SECTION:activity -->
 
 </br>
 <div align="center">
-
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
 </div>
 
 
