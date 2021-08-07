@@ -3,13 +3,13 @@
  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
 </p>
 
-<!-- - 🌱 I’m currently learning Python for data science
+- 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
 - 📫 How to reach me: [linkedin: @prashant_kumar](https://www.linkedin.com/in/prashant-2002/), [Instagram: @prashant_kumar](https://www.instagram.com/prashantaspacific/),  [Facebook: @prashant_kumar](https://www.facebook.com/prashant.kr2002/)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I listen music and go to the gym very often -->
+- ⚡ Fun fact: I listen music and go to the gym very often
 
 
 <a href="https://discord.gg/khrPzZ6k">
