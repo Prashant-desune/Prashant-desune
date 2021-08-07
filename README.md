@@ -232,7 +232,9 @@ END_SECTION:activity -->
 <!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
 #
 
+#
 
+#
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
   
   
