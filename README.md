@@ -214,68 +214,47 @@ END_SECTION:activity -->
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="40"></h2>
 </summary>
 
+<table>
+<tr>
+<td>
+ 
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg">
 </a>
-<a target="_blank"><img align="left" width="400px" height="330px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif"></a>
+ 
+</td>
+<td>
+ 
+<a target="_blank">
+ <img align="left" width="450px" height="330px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif">
+</a>
+ 
+</td>
+</tr>
+</table>
 
+
+
+
+<br>
+
+
+</br>
 
 <!--  ![Dino](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/dino.gif) -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/pixel1.gif" width="1200" height="262" />
- <br>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- </br>
- 
- 
- 
- 
- 
- 
- 
- <br>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- </br>
+<br>
+
+</br>
+
 <div align="center">
  <strong> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! </strong>
 </div>
+
+<br>
+
+
+</br>
 
 ![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
 <p align="center">
