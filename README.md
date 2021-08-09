@@ -129,11 +129,11 @@ END_SECTION:activity -->
  📈 My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-<table>
+<table width="100%">
 <tr>
     <td valign="middle"><p align="left"><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
     <td valign="middle"><p align="center"><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
-    <td valign="middle"><p align="right"><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
+    <td valign="middle"><p align="right"><img src="https://github-readme-stats.vercel.app/Prashant-desune/Prashant-desune/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
 </tr>
 <tr>
 
