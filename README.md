@@ -15,14 +15,19 @@
 <a href="https://discord.gg/khrPzZ6k">
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+
+<a href="https://www.instagram.com/prashantaspacific/">
+  <img align="left" alt="Prashant's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
-  <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/assets/linkedin.svg" />
+  <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
-  <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/spotify.svg" />
+  <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
