@@ -22,7 +22,7 @@
   <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
-  <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/master/assets/spotify.svg" />
+  <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/spotify.svg" />
 </a>
 
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
