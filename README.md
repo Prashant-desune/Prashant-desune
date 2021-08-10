@@ -16,10 +16,6 @@
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://www.instagram.com/prashantaspacific/">
-  <img align="left" alt="Prashant's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
