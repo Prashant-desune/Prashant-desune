@@ -26,7 +26,7 @@
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
+ <!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
