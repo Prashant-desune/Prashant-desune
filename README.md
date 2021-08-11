@@ -1,4 +1,4 @@
-
+![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
 <p align="center">
  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
 </p>
@@ -30,7 +30,7 @@
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) 
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
 
 
 
@@ -66,15 +66,13 @@
 
 ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/code.gif" width="500" height="332"/> -->
+
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="500" height="332"/>
 </a>
   
-
-
+  
 💬 ask me about anything, i am happy to help :-)
- <!-- <p><img align="left" width="50" height="80" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/boy.png"></p> -->
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
     <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Handshake.gif" height="25px" style="max-width:100%;">
@@ -101,16 +99,6 @@
 </a>
 </p>
 
-<!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
-
-
-
-<!-- ### :zap: Recent Activity
-START_SECTION:activity
-
-
- END_SECTION:activity -->
 
 <br>
 
@@ -183,7 +171,7 @@ START_SECTION:activity
 **<h2 align="center">Technology & Tools Stack <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/laptop.gif" width="50"></h2>**
 <br/>
 <br/>
-<!--  -->
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
