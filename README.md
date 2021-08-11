@@ -16,6 +16,9 @@
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+<a href="https://discord.gg/khrPzZ6k">
+  <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
