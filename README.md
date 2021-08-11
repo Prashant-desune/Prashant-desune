@@ -34,6 +34,7 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
+<img src="https://img.shields.io/badge/cv-download-green/url=https://drive.google.com/file/d/1UHlOxVt4lahsuRyUaqkf5IgVDNtt7XA8/view?usp=sharing">
 
 
 <br>
