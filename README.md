@@ -1,4 +1,5 @@
-![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg)
+
+<!--  ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
 <p align="center">
  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
 </p>
@@ -30,7 +31,7 @@
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune) -->
+
 
 
 
@@ -251,3 +252,7 @@
 <p align="center">
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
+<!--  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prashant-desune)  -->
+<p align="center">
+<img  src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
+ </p>
