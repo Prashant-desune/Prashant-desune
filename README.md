@@ -169,7 +169,7 @@
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/github.gif"></a>
 <br/>
 
-**<h2 align="center">Technology & Tools Stack <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/laptop.gif" width="50"></h2>**
+**<h2 align="center"> <img src= "https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/2345.gif" width="50">Technology & Tools Stack <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/laptop.gif" width="50"></h2>**
 <br/>
 <br/>
 
@@ -207,7 +207,8 @@
 
 #
 
-
+ 
+ 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/cat.gif" width="40"></h2>
