@@ -232,17 +232,6 @@
 </table>
 
 
- Last Updated on 01/02/2022 01:44:17 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@Prashantdesune/90c70e68-fa01-487c-b1fa-b8c7de79b83a.svg" />
-</p>
-
-#
-
-
 <br>
 
 
