@@ -231,8 +231,9 @@
 </tr>
 </table>
 
-
-
+<!-- <p align="center"> -->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C022%20hrs%2018%20mins-blue)
+<!-- </p> -->
 
 <br>
 
