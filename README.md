@@ -134,7 +134,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Prashant-desune&show_icons=true&theme=radical&line_height=27">
 </td>
 <td>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&theme=radical&hide=jinja">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-desune&theme=radical">
 </td>
 </tr>
 <!-- <tr>
@@ -142,7 +142,7 @@
 </td>
 </tr> -->
 </table> 
-
+<!-- &hide=jinja -->
 
 
 <br>
