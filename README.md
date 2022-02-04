@@ -202,10 +202,13 @@
 [![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
 
 
+![](https://i.imgur.com/waxVImv.png)
+
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 #
 
  
+![](https://i.imgur.com/waxVImv.png)
  
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
