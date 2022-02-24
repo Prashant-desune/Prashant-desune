@@ -161,7 +161,7 @@
   <a>
     <img height="150" width="145" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/left.png">
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&theme=dark&hide_border=true"/> -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&theme=synthwave&hide_border=true"/>
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-desune&theme=dark&hide_border=true"/> -->
     <img height="150" width="145" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/right.png">
   </a>
