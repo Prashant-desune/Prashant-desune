@@ -22,7 +22,7 @@
   <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook-48.png" />
 </a>
 <a href="https://twitter.com/i_prashant_kr">
-  <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter.gif" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
   <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
