@@ -19,7 +19,7 @@
   <img align="left" alt="Prashant's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/prashant.kr2002/">
-  <img align="left" alt="Prashant's facebook" width="22px" src="file:///Users/prashantkumar/Downloads/icons8-facebook.svg" />
+  <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook-48.png" />
 </a>
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
