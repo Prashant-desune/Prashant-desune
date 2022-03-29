@@ -1,7 +1,8 @@
 <!-- ![VisitorCount](https://profile-counter.glitch.me/Prashant-desune/count.svg) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
+  <img src = "https://github.com/Prashant-desune/Prashant-desune/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif"/>
+<!--   <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" /> -->
 </p>
 
 
