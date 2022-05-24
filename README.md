@@ -30,6 +30,8 @@
 <a href="https://www.facebook.com/prashant.kr2002/">
   <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook.gif" />
 </a>
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter.gif" />
 </a>
