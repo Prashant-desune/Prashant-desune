@@ -17,6 +17,13 @@
 - ⚡ Fun fact: I listen music and go to the gym very often
   -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
+<img src="https://badges.pufler.dev/repos/Prashant-desune" />
+<img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
+[![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+
 <a href="https://discord.gg/khrPzZ6k">
   <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-new.gif" />
 </a>
@@ -32,13 +39,13 @@
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
 </a>
-
+<!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
 [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
-<img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+<img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
 
 
 ![](https://i.imgur.com/waxVImv.png)
