@@ -34,9 +34,6 @@
 </a>
 
 
-<a href="https://discord.gg/khrPzZ6k">
-  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-new.gif" />
-</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
