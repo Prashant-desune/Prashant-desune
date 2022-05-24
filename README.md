@@ -33,7 +33,6 @@
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
