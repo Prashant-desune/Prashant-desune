@@ -18,14 +18,17 @@
   -->
 
 
-<a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
-  <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
-</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
+<a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
+  <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
+</a>
+<a href="https://discord.gg/khrPzZ6k">
+  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-new.gif" />
+</a>
 <a href="https://www.facebook.com/prashant.kr2002/">
   <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook.gif" />
 </a>
