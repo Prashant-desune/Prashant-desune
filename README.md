@@ -36,9 +36,11 @@
 <a href="https://www.linkedin.com/in/prashant-2002/">
   <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-linkedin-2.gif" />
 </a>
-<a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
+<!-- <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
-</a>
+</a> -->
+
+
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
