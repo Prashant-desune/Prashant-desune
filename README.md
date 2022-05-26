@@ -65,7 +65,8 @@
   -  About me🌸 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="40" />
 <pre>
 - 🪷 Hello Everyone Myself [Prashant Kumar]
-- 🏫 Currently pursuing B.Tech in Computer Science and Engineering , minoring in Full Stack from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA.
+- 🏫 Currently pursuing B.Tech in Computer Science and Engineering 
+     minoring in Full Stack from Lovely Professional University (L.P.U).
 -🌱 I’m currently learning Full Stack WEB-DEVELOPMENT.
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with MERN
