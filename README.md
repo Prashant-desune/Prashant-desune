@@ -50,6 +50,7 @@
 </table>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;">
 <img src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge"/><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966.gif" width="50" height="50" />
 </p>
 
@@ -261,7 +262,7 @@
 
 ![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
 <p align="center">
-<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!<img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;"></b> :)</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 
 <p align="center">
