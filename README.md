@@ -53,7 +53,7 @@
 <img src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge"/><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966.gif" width="50" height="50" />
 </p>
 
-<!--  ###  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;">    a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team. -->
+<!--  ###  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;">    a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world .  I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team. -->
 
 <!-- ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
@@ -65,7 +65,7 @@
   -  About me🌸 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="40" />
 <pre>
 - 🪷 Hello Everyone Myself [Prashant Kumar]
-- 🏫 
+- 🏫 Currently pursuing B.Tech in Computer Science and Engineering , minoring in Full Stack from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA.
 -🌱 I’m currently learning Full Stack WEB-DEVELOPMENT.
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with MERN
