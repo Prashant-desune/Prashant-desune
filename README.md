@@ -57,24 +57,27 @@
 <!--  ### Hello <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="24px" style="max-width:100%;"> Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , This is [Prashant Kumar](http://prashant.epizy.com/?i=1) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />  a Web Developer and a Data Analyst with a passion of storytelling . I believe that data and words are two most powerful tools to change the world . Currently pursuing B.Tech in Computer Science and Engineering , minoring in Data Science from Lovely Professional University (L.P.U) , Phagwara, Punjab,INDIA. I have a keen eye for detail to observe data trends across short and long term periods. I can handle responsibility individually and work well in a team. -->
 
 <!-- ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
+
+<br>
+
+
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
+  - About me🌸 -
 -🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
-- 📫 How to reach me: [linkedin: @prashant_kumar](https://www.linkedin.com/in/prashant-2002/), [Instagram: @prashant_kumar](https://www.instagram.com/prashantaspacific/),  [Facebook: @prashant_kumar](https://www.facebook.com/prashant.kr2002/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I listen music and go to the gym very often
-    </td>
-    
-    <td>
-      <a target="_blank">
+</td>
+<td>
+<a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="500" height="332"/>
 </a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 
