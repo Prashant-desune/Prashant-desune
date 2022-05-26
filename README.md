@@ -5,6 +5,16 @@
 <!--   <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" /> -->
 </p>
 
+- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21 and GWSOC'21
+- 🌱 I’m currently pursuing B.tech CSE
+- 👯 I’m looking to collaborate on C++, Python, Frontend, Reactjs
+- 🤔 I’m looking for help with Data Science
+- 💬 Ask me about Python, C++, Frontend Development and related to tech
+- 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
+- 📫 My Portfolio Website - (https://tjanhvi.github.io/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:Favourite --> Lucifer: The Morning Star / horror movies😂
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
@@ -59,6 +69,7 @@
 <!-- ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 <br>
+
 -🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
