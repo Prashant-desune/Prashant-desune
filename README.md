@@ -50,7 +50,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="44px" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Earth.gif" width="34px" style="max-width:100%;">
 <img src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge"/><img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966.gif" width="50" height="50" />
 </p>
 
