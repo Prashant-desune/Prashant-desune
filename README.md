@@ -64,7 +64,7 @@
 <td>
   - About me🌸 -
 <pre>
--🌱 I’m currently learning Full-Stack WEB-DEVELOPMENT
+-🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
@@ -74,15 +74,14 @@
 </td>
 <td>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="500" height="332"/>
+  <img align="right" height="350" width="500" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="600" height="432"/>
 </a>
 </td>
 </tr>
 </table>
 
-<p align="center">
+
 💬 ask me about anything, i am happy to help :-)
-</p>
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
     <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/Handshake.gif" height="25px" style="max-width:100%;">
