@@ -6,20 +6,6 @@
 </p>
 
 
-
-
-  <!--- 🌱 I’m currently learning Python for data science
-  - 👯 I’m looking to collaborate  on C++, Web Development and Python
-- 🤔 I’m looking for help with Data Science
-  - 💬 Ask me about Python, Web Development and related to tech
-- 📫 How to reach me: [linkedin: @prashant_kumar](https://www.linkedin.com/in/prashant-2002/), [Instagram: @prashant_kumar](https://www.instagram.com/prashantaspacific/),  [Facebook: @prashant_kumar](https://www.facebook.com/prashant.kr2002/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I listen music and go to the gym very often
-  -->
-
-
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
@@ -74,12 +60,24 @@
 <table>
   <tr>
     <td>
+-🌱 I’m currently learning Python for data science
+- 👯 I’m looking to collaborate  on C++, Web Development and Python
+- 🤔 I’m looking for help with Data Science
+- 💬 Ask me about Python, Web Development and related to tech
+- 📫 How to reach me: [linkedin: @prashant_kumar](https://www.linkedin.com/in/prashant-2002/), [Instagram: @prashant_kumar](https://www.instagram.com/prashantaspacific/),  [Facebook: @prashant_kumar](https://www.facebook.com/prashant.kr2002/)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I listen music and go to the gym very often
+    </td>
+    
+    <td>
       <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="500" height="332"/>
 </a>
     </td>
   </tr>
 </table>
+
+
 💬 ask me about anything, i am happy to help :-)
 
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me on<a target="_blank">
