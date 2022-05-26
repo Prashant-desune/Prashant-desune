@@ -59,18 +59,18 @@
 <!-- ### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 <br>
-
-
-<table>
-<tr>
-<td>
-  - About me🌸 -
 -🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate  on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, Web Development and related to tech
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I listen music and go to the gym very often
+
+<table>
+<tr>
+<td>
+  - About me🌸 -
+
 </td>
 <td>
 <a target="_blank">
