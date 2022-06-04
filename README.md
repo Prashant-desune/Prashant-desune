@@ -262,7 +262,7 @@
 
 ![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
 <p align="center">
-<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-hand-peace.gif" width="25px">
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-handshake-96.png" width="25px">
 </p>
 
 <p align="center">
