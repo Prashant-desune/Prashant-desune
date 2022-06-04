@@ -9,19 +9,19 @@
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
 <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" />
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
-  <img align="left" alt="Prashant's Spotify" width="2px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify.gif" />
+  <img align="left" alt="Prashant's Spotify" width="30px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify-144.png" />
 </a>
 <a href="https://discord.gg/khrPzZ6k">
-  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-new.gif" />
+  <img align="left" alt="Prashant's Discord" width="30px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-144.png" />
 </a>
 <a href="https://www.facebook.com/prashant.kr2002/">
-  <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook.gif" />
+  <img align="left" alt="Prashant's facebook" width="30px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook-48.png" />
 </a>
 <a href="https://twitter.com/i_prashant_kr">
-  <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter.gif" />
+  <img align="left" alt="Prashant Kumar | Twitter" width="30px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter-144.png" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
-  <img align="left" alt="Prashant's LinkedIN" width="70px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/in.png" />
+  <img align="left" alt="Prashant's LinkedIN" width="30px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/in.png" />
 </a>
 [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
@@ -262,7 +262,7 @@
 
 ![footer](https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/footer.png)
 <p align="center">
-<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-hand-peace.gif" width="25px">
 </p>
 
 <p align="center">
