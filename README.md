@@ -21,7 +21,7 @@
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter.gif" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-2002/">
-  <img align="left" alt="Prashant's LinkedIN" width="22px" src="[https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-linkedin-2.gif](https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-linkedin-50.png)" />
+  <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-linkedin-50.png" />
 </a>
 [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
