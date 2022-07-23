@@ -78,7 +78,7 @@
 </td>
 <td>
 <a target="_blank">
-  <img align="right" height="250" width="250" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="250" height="250"/>
+  <img align="right" height="250" width="350" alt="GIF" src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image.gif" width="250" height="250"/>
 </a>
 </td>
 </tr>
