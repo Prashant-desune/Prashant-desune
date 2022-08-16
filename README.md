@@ -11,9 +11,9 @@
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify-144.png" />
 </a>
-a
+
 <a href="https://discord.gg/khrPzZ6k">
-  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-new.gif" />
+  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-144.png" />
 </a>
 <a href="https://www.facebook.com/prashant.kr2002/">
   <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook-48.png" />
