@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src = "https://github.com/Prashant-desune/Prashant-desune/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif"/>
-  <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" />
+<!--   <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" /> -->
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
