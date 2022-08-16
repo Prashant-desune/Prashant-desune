@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/prashant-2002/">
   <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/in.png" />
 </a>
-[![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/)
+<!-- [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/) -->
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
