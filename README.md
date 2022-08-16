@@ -4,7 +4,6 @@
   <img src = "https://github.com/Prashant-desune/Prashant-desune/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
-
 <a href="https://open.spotify.com/user/312673axsvimkjmxxh7zqkwkpjaq?si=a6673185759c49e6">
   <img align="left" alt="Prashant's Spotify" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-spotify-144.png"/></a>
 <a href="https://twitter.com/i_prashant_kr">
@@ -18,8 +17,6 @@
  
 
 <br>
-<!-- <img src="https://badges.pufler.dev/repos/Prashant-desune" /> -->
-<!-- <img src="https://badges.pufler.dev/commits/monthly/Prashant-desune" /> -->
 
 <table>
 <tr>
