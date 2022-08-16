@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src = "https://github.com/Prashant-desune/Prashant-desune/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif"/>
-<!--   <img src="https://raw.githubusercontent.com/Prashant-desune/Prashant-desune/main/image%20(2).png" /> -->
-</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prashant-desune.Prashant-desune)
 <img src="https://badges.pufler.dev/repos/Prashant-desune" />
@@ -13,24 +11,13 @@
 </a>
 <a href="https://twitter.com/i_prashant_kr">
   <img align="left" alt="Prashant Kumar | Twitter" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-twitter-144.png" /></a>
+ 
 <a href="https://www.linkedin.com/in/prashant-2002/">
   <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/in.png" /></a>
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Prashant-desune?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/Prashant-desune?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
-
 ![](https://i.imgur.com/waxVImv.png)
-
-<!-- [![Prashant Kumar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://prashant.epizy.com/) -->
- 
-<!-- <a href="https://discord.gg/khrPzZ6k">
-  <img align="left" alt="Prashant's Discord" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-discord-144.png" />
-</a>
-
-
-<a href="https://www.facebook.com/prashant.kr2002/">
-  <img align="left" alt="Prashant's facebook" width="22px" src="https://github.com/Prashant-desune/Prashant-desune/blob/main/icons8-facebook-48.png" />
-</a> -->
  
 
 <br>
