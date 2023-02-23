@@ -192,8 +192,7 @@
 
 <br/>
 
-[![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prashant-desune&theme=xcode)](https://git.io/prashant-desune)
-
+[![Prashant's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prashant-desune&theme=github-compact)](https://github.com/prashant-desune/github-readme-activity-graph)
 
 ![](https://i.imgur.com/waxVImv.png)
 
